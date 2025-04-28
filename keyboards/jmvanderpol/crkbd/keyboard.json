@@ -27,7 +27,11 @@
             "sync": {
                 "activity": true,
                 "layer_state": true,
-                "oled": true
+                "indicators": true,
+                "matrix_state": true,
+                "modifiers": true,
+                "oled": true,
+                "wpm": true
             }
         }
     },
